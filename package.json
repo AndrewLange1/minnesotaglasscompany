@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "scripts": {
+    "heroku-postbuild": "cd mnshowerdoor && npm install && npm run build"
+  },
+  "dependencies": {
+    "css": "^3.0.0",
+    "tailwind": "^4.0.0"
+  }
+}

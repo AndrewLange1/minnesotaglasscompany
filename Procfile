@@ -1,0 +1,1 @@
+web: cd mnglasscompany && npm start
